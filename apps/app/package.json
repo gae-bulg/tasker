@@ -20,6 +20,7 @@
   "dependencies": {
     "@tanstack/react-router": "^1.99.13",
     "@tanstack/router-devtools": "^1.99.13",
+    "@vercel/analytics": "^1.4.1",
     "better-auth": "^1.1.16",
     "react": "^19.0.0",
     "react-dom": "^19.0.0"
